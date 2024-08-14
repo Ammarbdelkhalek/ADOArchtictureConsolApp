@@ -1,0 +1,4 @@
+{
+
+  "connection": "Server =  DESKTOP-KQOKVRN\\SQLEXPRESS ; Database = Wallet ; Integrated Security = SSPI ; TrustServerCertificate = True"
+}

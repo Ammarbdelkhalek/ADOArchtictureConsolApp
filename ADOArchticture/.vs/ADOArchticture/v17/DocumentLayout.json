@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71A609A3-70C8-4BF1-9D0A-ADE88192658C}|TransactionInto ADO\\TransactionInto ADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\transactioninto ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A609A3-70C8-4BF1-9D0A-ADE88192658C}|TransactionInto ADO\\TransactionInto ADO.csproj|solutionrelative:transactioninto ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFCDC4E-4382-471E-B65C-5F27EFEBE608}|updateWithADO\\updateWithADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\updatewithado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFCDC4E-4382-471E-B65C-5F27EFEBE608}|updateWithADO\\updateWithADO.csproj|solutionrelative:updatewithado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFCDC4E-4382-471E-B65C-5F27EFEBE608}|updateWithADO\\updateWithADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\updatewithado\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFCDC4E-4382-471E-B65C-5F27EFEBE608}|updateWithADO\\updateWithADO.csproj|solutionrelative:updatewithado\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B8167-9781-48DE-9A06-EC28ED3906A2}|DataAdapterInADO\\DataAdapterInADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\dataadapterinado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B8167-9781-48DE-9A06-EC28ED3906A2}|DataAdapterInADO\\DataAdapterInADO.csproj|solutionrelative:dataadapterinado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B8167-9781-48DE-9A06-EC28ED3906A2}|DataAdapterInADO\\DataAdapterInADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\dataadapterinado\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B8167-9781-48DE-9A06-EC28ED3906A2}|DataAdapterInADO\\DataAdapterInADO.csproj|solutionrelative:dataadapterinado\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2728223-185F-40DB-A030-F7DB52919E40}|ADOArchticture\\ADOArchticture.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\adoarchticture\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2728223-185F-40DB-A030-F7DB52919E40}|ADOArchticture\\ADOArchticture.csproj|solutionrelative:adoarchticture\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2728223-185F-40DB-A030-F7DB52919E40}|ADOArchticture\\ADOArchticture.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\adoarchticture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2728223-185F-40DB-A030-F7DB52919E40}|ADOArchticture\\ADOArchticture.csproj|solutionrelative:adoarchticture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B8167-9781-48DE-9A06-EC28ED3906A2}|DataAdapterInADO\\DataAdapterInADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\dataadapterinado\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE2B8167-9781-48DE-9A06-EC28ED3906A2}|DataAdapterInADO\\DataAdapterInADO.csproj|solutionrelative:dataadapterinado\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEACB3B-FFD0-4257-B8AA-B8CFA2D1B22F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEACB3B-FFD0-4257-B8AA-B8CFA2D1B22F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFCDC4E-4382-471E-B65C-5F27EFEBE608}|updateWithADO\\updateWithADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\updatewithado\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEFCDC4E-4382-471E-B65C-5F27EFEBE608}|updateWithADO\\updateWithADO.csproj|solutionrelative:updatewithado\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertusingstoreprocedure\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|solutionrelative:insertusingstoreprocedure\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertusingstoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|solutionrelative:insertusingstoreprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B0A8F7-18CC-4814-92CE-559DCCF0031C}|insertExecuteScaler\\insertExecuteScaler.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertexecutescaler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B0A8F7-18CC-4814-92CE-559DCCF0031C}|insertExecuteScaler\\insertExecuteScaler.csproj|solutionrelative:insertexecutescaler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB66EA-86EB-42CA-BA89-00544B04D8BA}|insertquaryWithADO\\insertquaryWithADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertquarywithado\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBFB66EA-86EB-42CA-BA89-00544B04D8BA}|insertquaryWithADO\\insertquaryWithADO.csproj|solutionrelative:insertquarywithado\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertusingstoreprocedure\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|solutionrelative:insertusingstoreprocedure\\json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertusingstoreprocedure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{50C454CA-DD9E-43AC-AE58-2D6E1A0BAC4B}|insertUsingStoreProcedure\\insertUsingStoreProcedure.csproj|solutionrelative:insertusingstoreprocedure\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB66EA-86EB-42CA-BA89-00544B04D8BA}|insertquaryWithADO\\insertquaryWithADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertquarywithado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB66EA-86EB-42CA-BA89-00544B04D8BA}|insertquaryWithADO\\insertquaryWithADO.csproj|solutionrelative:insertquarywithado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B0A8F7-18CC-4814-92CE-559DCCF0031C}|insertExecuteScaler\\insertExecuteScaler.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertexecutescaler\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98B0A8F7-18CC-4814-92CE-559DCCF0031C}|insertExecuteScaler\\insertExecuteScaler.csproj|solutionrelative:insertexecutescaler\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFB66EA-86EB-42CA-BA89-00544B04D8BA}|insertquaryWithADO\\insertquaryWithADO.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\insertquarywithado\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFB66EA-86EB-42CA-BA89-00544B04D8BA}|insertquaryWithADO\\insertquaryWithADO.csproj|solutionrelative:insertquarywithado\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2728223-185F-40DB-A030-F7DB52919E40}|ADOArchticture\\ADOArchticture.csproj|c:\\users\\dell\\source\\repos\\adoarchticture\\adoarchticture\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2728223-185F-40DB-A030-F7DB52919E40}|ADOArchticture\\ADOArchticture.csproj|solutionrelative:adoarchticture\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\updateWithADO\\Wallet.cs",
+              "RelativeDocumentMoniker": "updateWithADO\\Wallet.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\updateWithADO\\Wallet.cs",
+              "RelativeToolTip": "updateWithADO\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:00:51.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\TransactionInto ADO\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionInto ADO\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\TransactionInto ADO\\Program.cs",
+              "RelativeToolTip": "TransactionInto ADO\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:28:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\DataAdapterInADO\\Wallet.cs",
+              "RelativeDocumentMoniker": "DataAdapterInADO\\Wallet.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\DataAdapterInADO\\Wallet.cs",
+              "RelativeToolTip": "DataAdapterInADO\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:26:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\DataAdapterInADO\\Program.cs",
+              "RelativeDocumentMoniker": "DataAdapterInADO\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\DataAdapterInADO\\Program.cs",
+              "RelativeToolTip": "DataAdapterInADO\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:57:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "json.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\updateWithADO\\json.json",
+              "RelativeDocumentMoniker": "updateWithADO\\json.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\updateWithADO\\json.json",
+              "RelativeToolTip": "updateWithADO\\json.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T22:05:13.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\updateWithADO\\Program.cs",
+              "RelativeDocumentMoniker": "updateWithADO\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\updateWithADO\\Program.cs",
+              "RelativeToolTip": "updateWithADO\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:40:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\Wallet.cs",
+              "RelativeDocumentMoniker": "insertUsingStoreProcedure\\Wallet.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\Wallet.cs",
+              "RelativeToolTip": "insertUsingStoreProcedure\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:03:47.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\App.config",
+              "RelativeDocumentMoniker": "insertUsingStoreProcedure\\App.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\App.config",
+              "RelativeToolTip": "insertUsingStoreProcedure\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-19T20:01:24.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "json.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\json.json",
+              "RelativeDocumentMoniker": "insertUsingStoreProcedure\\json.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\json.json",
+              "RelativeToolTip": "insertUsingStoreProcedure\\json.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T19:59:49.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "insertUsingStoreProcedure\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertUsingStoreProcedure\\Program.cs",
+              "RelativeToolTip": "insertUsingStoreProcedure\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:59:23.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ADOArchticture\\Wallet.cs",
+              "RelativeDocumentMoniker": "ADOArchticture\\Wallet.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ADOArchticture\\Wallet.cs",
+              "RelativeToolTip": "ADOArchticture\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:45:35.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:08:06.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ADOArchticture\\Program.cs",
+              "RelativeDocumentMoniker": "ADOArchticture\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ADOArchticture\\Program.cs",
+              "RelativeToolTip": "ADOArchticture\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:46:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "json.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\DataAdapterInADO\\json.json",
+              "RelativeDocumentMoniker": "DataAdapterInADO\\json.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\DataAdapterInADO\\json.json",
+              "RelativeToolTip": "DataAdapterInADO\\json.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T23:23:39.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "jsconfig1.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertExecuteScaler\\jsconfig1.json",
+              "RelativeDocumentMoniker": "insertExecuteScaler\\jsconfig1.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertExecuteScaler\\jsconfig1.json",
+              "RelativeToolTip": "insertExecuteScaler\\jsconfig1.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T19:28:54.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertExecuteScaler\\Program.cs",
+              "RelativeDocumentMoniker": "insertExecuteScaler\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertExecuteScaler\\Program.cs",
+              "RelativeToolTip": "insertExecuteScaler\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:24:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "json.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertquaryWithADO\\json.json",
+              "RelativeDocumentMoniker": "insertquaryWithADO\\json.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertquaryWithADO\\json.json",
+              "RelativeToolTip": "insertquaryWithADO\\json.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T18:03:02.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertquaryWithADO\\Wallet.cs",
+              "RelativeDocumentMoniker": "insertquaryWithADO\\Wallet.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertquaryWithADO\\Wallet.cs",
+              "RelativeToolTip": "insertquaryWithADO\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:54:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertquaryWithADO\\Program.cs",
+              "RelativeDocumentMoniker": "insertquaryWithADO\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\insertquaryWithADO\\Program.cs",
+              "RelativeToolTip": "insertquaryWithADO\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:52:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "jsconfig1.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ADOArchticture\\jsconfig1.json",
+              "RelativeDocumentMoniker": "ADOArchticture\\jsconfig1.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ADOArchticture\\ADOArchticture\\jsconfig1.json",
+              "RelativeToolTip": "ADOArchticture\\jsconfig1.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T15:36:41.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
